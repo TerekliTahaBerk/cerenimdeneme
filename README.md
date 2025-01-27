@@ -1,2 +1,1 @@
-# cerenimdeneme
-ceren bioinfçi olucak
+Burası benim bioinformatic portfoliom
